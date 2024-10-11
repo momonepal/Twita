@@ -14,12 +14,6 @@
 - [x] User can retweet a tweet. 
 - [x] User can pull to refresh. 
 
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
-
-<img src='https://i.imgur.com/O8vIYHh.gif' width='' alt='Video Walkthrough' />
-
 
 ## Video Walkthrough
 
